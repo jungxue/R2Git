@@ -14,7 +14,7 @@ What are benefits of using Github:
 
 1. Version Control, keep track on your projects and makes it easier to collaborate. 
 2. Able to browse and download other peoples shared codes, this is fun.
-3. Create a public profile for myself, my githun is the first thing that came up in google search if I search my name.
+3. Create a public profile for myself, my github is the first thing that came up in google search if I search my name.
 4. A alternative platform which I can do blog/notes, at Uni and at home. 
 5. I can quickly present my projects or codes to other people by sending them a github repository link.
 6. Need to use github if I was to create my personal website using R Blogdown.
