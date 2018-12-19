@@ -1,2 +1,6 @@
 # R-lyublyu-Git
-How to set, commiting and pull R file on github | я 和全球最大同性交友网站有个故事
+
+### Reference
+
+- R-blogger https://www.r-bloggers.com/rstudio-and-github/
+- Blake Seer 
