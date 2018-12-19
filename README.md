@@ -8,7 +8,7 @@
 
 ### 1.1 Inspiration
 
-Basically I saw an email from Medhi about Blakes's Github seminar and thought yeah I kept came across this github thing might as well see what is it about, and then version control, what a great idea I wish I knew about this before I did my Diverticular project, if I did I wouldn't have spents like 100 hours redo and recover stuff after consistent system failures.
+Basically I saw an email from Medhi about Blakes's Github seminar and thought yeah I kept came across this github thing might as well see what is it about. And then I learnt about version control, what a great idea I wish I knew about this before I did my Diverticular project, if I did I wouldn't have spents like 100 hours redo and recover stuff after consistent system failures.
 
 What are benefits of using Github:
 
