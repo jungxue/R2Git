@@ -23,6 +23,7 @@ Some cons
 
 1. I procastinate on github, yeah I open up github and doen't kow what to do and just chill there.
 2. I start worry about my coding abilities and start compare myself to other people.
+3. No spell check, now peopel will see how bad my spelling is. :sadface:
 
 ### Reference
 
