@@ -8,7 +8,7 @@
 
 ### 1.1 Inspiration
 
-Basically I saw an email from Medhi about Blakes's Github seminar and thought yeah I kept came across this github thing might as well see what is it about. And then I learnt about version control, what a great idea I wish I knew about this before I did my Diverticular project, if I did I wouldn't have spents like 100 hours redo and recover stuff after consistent system failures.
+Basically I received an email from Medhi about Blakes's Github seminar and thought yeah I kept came across this github thing might as well see what is it about. And then I learnt about version control, what a great idea I wish I knew about this before I did my Diverticular project, if I did I wouldn't have spents like 100 hours redo and recover stuff after consistent system failures. 
 
 What are benefits of incorporating Github with my R projects:
 
@@ -21,9 +21,9 @@ What are benefits of incorporating Github with my R projects:
 
 Some cons
 
-1. I procastinate on github, yeah I open up github and doen't know what to do and just chill there actinf as if I am doing stuff.
-2. I start worry about my coding abilities and start compare myself to other people.
-3. No spell check, now peopel will see how bad my spelling reallly is. :sadface:
+1. I procastinate on github, yeah I open up github and doen't know what to do and just chill there acting as if I am doing stuff.
+2. I start worry about my coding abilities and start compare myself to other people. And this usually end up in me thinking I really suck and contemplating about my life. 
+3. No spell check, now peopel will see how bad my spelling reallly is. Maybe I need to do my markdown files on an editor rather than do it on github. 
 
 ### Reference
 
