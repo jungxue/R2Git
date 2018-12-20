@@ -2,7 +2,7 @@ Version control with GitHub for Rstudio
 
 ### 1.0 Contents
 
-- [1.1 Inspiration](
+- [1.1 Inspiration](https://github.com/jungxue/R-lyublyu-Git/blob/master/README.md#11-inspiration)
 - 
 - 
 
