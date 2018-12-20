@@ -1,8 +1,8 @@
-# R-lyublyu-Git
+Version control with GitHub for Rstudio
 
 ### 1.0 Contents
 
-- 
+- [1.1 Inspiration](
 - 
 - 
 
