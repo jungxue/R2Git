@@ -4,7 +4,7 @@ Version control with GitHub for Rstudio
 
 - [1.1 Inspiration](https://github.com/jungxue/R-lyublyu-Git/blob/master/README.md#11-inspiration)
 - [1.2 Basic setups]()
-- []()
+- [1.3 Instructions](https://github.com/jungxue/R2Git#13-instructions)
 - []()
 - []()
 - [Reference]()
