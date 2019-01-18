@@ -26,10 +26,10 @@ What are benefits of incorporating Github with my R projects:
 
 Some cons
 
-1. I procastinate on github, yeah I open up github and doen't know what to do and just chill there acting as if I am doing stuff.
-2. I start worry about my coding abilities and start compare myself to other people. And this usually end up in me thinking I really suck and contemplating about my life. 
-3. No spell check, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on github. 
-4.I am still unfamilar with github and I things ineffecient, if you see me doing like 100 commits in a day, that does not meant I did a lot of work on that day, it probably meant that I was confused and had to keep doing commints to fix things up.  
+1. I use github to procastinate, what I meant is I open up github and doen't know what to do and just stair at repositories. 
+2. I started compare myself to other people on Github. And this usually end up in me realising how much I really suck at coding, losing self esteem and contemplating about my life. 
+3. There are no spell checks, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on github. 
+4.I am still unfamilar with github and I do things ineffeciently, if you see me doing like 100 commits in a day, that does not meant I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commints to fix things up.  
 
 -------------------------------------------------------------------------------------------------------------------
 
