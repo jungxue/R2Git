@@ -35,7 +35,7 @@ Some cons
 
 ### 1.2 Basic setups
 
-Obviously, you need to have R (preferably also the latest version of R-Studio) and a Github account in order to start, and also Git bash for the commands. Here are links for downloads. 
+Obviously, you need to have R (preferably also the latest version of R-Studio) and a Github account in order to start, and also Git bash for the commands. Here are download links. 
 
 - [**R**](https://cran.r-project.org/)
 - [**R-Studio**](https://www.rstudio.com/products/rstudio/download/)
