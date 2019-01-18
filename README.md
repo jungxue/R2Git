@@ -52,7 +52,7 @@ To be continued
 
 ### Reference
 
-- R-blogger https://www.r-bloggers.com/rstudio-and-github/
-- Blake Seer https://github.com/sccuoa/intro-to-git
-- Nathan stephens Rstudo support https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
+- R-blogger [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
+- Blake Seer [intro to git (for R users)](https://github.com/sccuoa/intro-to-git)
+- Nathan stephens Rstudo support[Version Control with Git and SVN](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
 
