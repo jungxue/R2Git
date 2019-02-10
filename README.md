@@ -50,7 +50,7 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 
 File → New Project → Version Control → Git
 
-If you dont have git or was not setup properly (I can do it on University PC) you will see this
+If you do not have git or was not setup properly (I can not get it working on University PC due to restricions) you will see this
 ![screenshot1](R2Git1.jpg)
 
 Otherwise you will see this, which allows you to clone a repository onto your laptop.
