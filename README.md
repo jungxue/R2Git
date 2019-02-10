@@ -56,6 +56,19 @@ If you do not have git or was not setup properly (I can not get it working on Un
 Otherwise you will see this, which allows you to clone a repository onto your laptop.
 ![screenshot2](R2Git2.jpg)
 
+**Step 2** Introduce ourselves to git
+
+Open Git Bash or use the terminal tab of R studio, and use the following code to set up your name and email
+
+---git
+$git config --global user.name 'Your Name'
+$git config --global user.email 'your@email.com'
+$git config user.name
+Your Name
+$git config user.email
+your@email.com
+---
+
 
 -------------------------------------------------------------------------------------------------------------------
 
