@@ -112,6 +112,8 @@ Continue here
 
 ### 1.4 Example 1: Setting up a bookdown Project for Study Notes
 
+### 1.5 Example 2: Version control for my thesis R codes
+
 -------------------------------------------------------------------------------------------------------------------
 
 ### Reference
