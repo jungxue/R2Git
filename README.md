@@ -6,7 +6,7 @@ Version control with GitHub for Rstudio
 - [1.2 Basic setups](https://github.com/jungxue/R2Git/blob/master/README.md#12-basic-setups)
 - [1.3 Github Basics](https://github.com/jungxue/R2Git/blob/master/README.md#13-github-basics)
 - [1.4 Example 1: Setting up a bookdown Project for Study Notes](https://github.com/jungxue/R2Git/blob/master/README.md#14-example-1-setting-up-a-bookdown-project-for-study-notes)
-- [1.5]()
+- [1.5 Example 2: Version control for my thesis R codes](https://github.com/jungxue/R2Git/blob/master/README.md#15-example-2-version-control-for-my-thesis-r-codes)
 - [Reference](https://github.com/jungxue/R2Git/blob/master/README.md#reference)
 
 -------------------------------------------------------------------------------------------------------------------
