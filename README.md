@@ -7,7 +7,7 @@ Version control with GitHub for Rstudio
 - [1.3 Instructions](https://github.com/jungxue/R2Git#13-instructions)
 - []()
 - []()
-- [Reference]()
+- [Reference](https://github.com/jungxue/R2Git/blob/master/README.md#reference)
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Some cons
 1. I use github to procastinate, this wastes a lot of time
 2. I started compare myself to other people on Github. And this usually end up in me realising how much I really suck at coding, losing self esteem and contemplating about my life. 
 3. There are no spell checks, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on github. 
-4.I am still unfamilar with github and I do things ineffeciently, if you see me doing like 100 commits in a day, that does not meant I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commints to fix things up.  
+4. I am still unfamilar with github and I do things ineffeciently, if you see me making like 100 commits in a day, that does not meant I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commints to fix things up.  
 
 -------------------------------------------------------------------------------------------------------------------
 
