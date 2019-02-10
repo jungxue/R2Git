@@ -90,6 +90,19 @@ Tools → Global options → Git/SVN → Create RSA Key → View Public Key
 
 Copy your key and get on Github https://github.com/settings/ssh/new and associate the key with your account.
 
+And check your connection on R terminal: 
+
+```git
+C:\Users\Tokor>ssh -T git@github.com
+The authenticity of host 'github.com (192.30.255.113)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:25:2d:36:63:1b:46:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? Yes
+Warning: Permanently added 'github.com,192.32.255.613' (RSA) to the list of known hosts.
+
+Hi jungxue! You've successfully authenticated, but GitHub does not provide shell access.
+
+```
+
 Check that 
 -------------------------------------------------------------------------------------------------------------------
 
