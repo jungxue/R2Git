@@ -35,7 +35,7 @@ Some cons
 
 ### 1.2 Basic setups
 
-**Step 1**
+**Step 1** Download and install all required softwares
 
 First, you need to have R (preferably also the latest version of R-Studio) and a Github account in order to start, and also Git bash for the commands. Here are links for you to start your download. 
 
