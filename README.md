@@ -17,12 +17,12 @@ I am at a stage of my study where needs for programming is becoming essential, a
 
 What are benefits of incorporating Github with my R projects:
 
-1. Version Control, keep track on your projects and makes it easier to collaborate. Obviously. 
-2. Able to browse and download other peoples shared codes, this is what I do for fun now.
-3. Create a public profile for myself, my github is the first thing that came up in google search if I search my name.
-4. An alternative platform which I can do blog/notes, at Uni and at home. It is better than good old microsoft word. 
-5. I can quickly present my projects or codes to other people by sending them a github repository link.
-6. I Need to use github if I was to create my personal website using R Blogdown.
+1. **Version Control**, keep track on your projects and makes it easier to collaborate. Obviously. 
+2. Able to browse and download other peoples **shared codes**, this is what I do for fun now.
+3. Create a **public profile** for myself, my github is the first thing that came up in google search if I search my name.
+4. An alternative platform which I can **do blog/notes**, at Uni and at home. It is better than good old microsoft word. 
+5. I can quickly **present my projects** or codes to other people by sending them a github repository link.
+6. I Need to use github if I was to create my **personal website** using **R Blogdown**.
 
 Some cons
 
