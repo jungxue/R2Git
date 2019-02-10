@@ -109,9 +109,33 @@ After all these setups bro you are all good to go!
 -------------------------------------------------------------------------------------------------------------------
 
 ### 1.3 Github Basics
-Continue here
+
+Here are some of the Core concepts you need to understand before you use Github. 
+
+**Repository**
+- This is an online location that contains all your files (and history) for particular project.
+
+**Commit**
+- Each commit is a snapshot of your project.
+- Equivalent to a saving ThesisDraft3.docx.
+- You can view and travel between commits. 
+
+**Clone**
+- Copy (clone) an existing repository onto your local drive. 
+
+**Push**
+- Making the changes you have made locally (using git) available to the online repository (GitHub).
+
+**Pull**
+- Updating your local repository to the current version in the online repository.
+
+**Fork**
+- Making a clone repository from another user's project.
 
 
+There are more stuff you can do with git, more details see [here]()
+
+-------------------------------------------------------------------------------------------------------------------
 ### 1.4 Example 1: Setting up a bookdown Project for Study Notes
 
 ### 1.5 Example 2: Version control for my thesis R codes
