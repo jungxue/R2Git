@@ -46,7 +46,7 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 
 ### 1.3 Instructions
 
-- [**Step 1**]  Check if you already have git installed In RStudio:
+**Step 1**  Check if you already have git installed In RStudio:
 
 File → New Project → Version Control → Git
 
@@ -68,6 +68,27 @@ Your Name
 $git config user.email
 your@email.com
 ```
+Note: If you get an error `More than one value for the key user.name`, that is due to your names overriding each other.
+You can use 'git config --get-all user.name' and you will see multiple names. 
+You can use `--replace-all` option to clear all the names and rename yourself. 
+
+```git
+$git config --get-all user.name
+'Your
+'your
+$git config git config --get-all user.name 
+$git config --global user.name 'Your Name'
+$git config user.name
+Your Name
+```
+
+**Step 3** Secure Shell (SSH) key (optional)
+
+SSH allows you to connect and authenticate to remote servers.
+
+Tools → Global options → Git/SVN → Create RSA Key → View Public Key
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------
