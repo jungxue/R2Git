@@ -35,6 +35,8 @@ Some cons
 
 ### 1.2 Basic setups
 
+**Step 1**
+
 First, you need to have R (preferably also the latest version of R-Studio) and a Github account in order to start, and also Git bash for the commands. Here are links for you to start your download. 
 
 - [**R**](https://cran.r-project.org/)
@@ -42,21 +44,19 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 - [**Github**](https://github.com/)
 - [**Gtitbash**](https://gitforwindows.org/) or [automatic download](https://git-scm.com/download/win)
 
--------------------------------------------------------------------------------------------------------------------
-
-### 1.3 Instructions
-
-**Step 1**  Check if you already have git installed In RStudio:
+**Step 2**  Check if you already have git installed In RStudio:
 
 File → New Project → Version Control → Git
 
-If you do not have git or was not setup properly (I can not get it working on University PC due to restricions) you will see this
+If you do not have git or was not setup properly, you will see this
 ![screenshot1](R2Git1.jpg)
 
-Otherwise you will see this, which allows you to clone a repository onto your laptop.
+Otherwise you will something like this. 
 ![screenshot2](R2Git2.jpg)
 
 **Step 2** Introduce ourselves to git
+
+You are an user so you need to identify yourself.
 
 Open Git Bash or use the terminal tab of R studio, and use the following code to set up your name and email
 
@@ -103,7 +103,14 @@ Hi jungxue! You've successfully authenticated, but GitHub does not provide shell
 
 ```
 
-Check that 
+-------------------------------------------------------------------------------------------------------------------
+
+### 1.3 What can you do
+Continue here
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------
 
 ### Reference
