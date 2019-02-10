@@ -88,9 +88,9 @@ SSH allows you to connect and authenticate to remote servers.
 
 Tools → Global options → Git/SVN → Create RSA Key → View Public Key
 
+Copy your key and get on Github https://github.com/settings/ssh/new and associate the key with your account.
 
-
-
+Check that 
 -------------------------------------------------------------------------------------------------------------------
 
 ### Reference
