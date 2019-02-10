@@ -49,7 +49,9 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 File → New Project → Version Control → Git
 
 If you do not have git or was not setup properly, you will see this
+<p align="center">
 ![screenshot1](R2Git1.jpg)
+</p>
 
 Otherwise you will something like this. 
 ![screenshot2](R2Git2.jpg)
