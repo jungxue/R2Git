@@ -69,7 +69,7 @@ $git config user.email
 your@email.com
 ```
 Note: If you get an error `More than one value for the key user.name`, that is due to your names overriding each other.
-You can use 'git config --get-all user.name' and you will see multiple names. 
+You can use `--get-all` and you will see multiple names. 
 You can use `--replace-all` option to clear all the names and rename yourself. 
 
 ```git
