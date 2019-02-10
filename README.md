@@ -50,7 +50,7 @@ File → New Project → Version Control → Git
 
 If you do not have git or was not setup properly, you will see this
 <p align="center">
-![screenshot1](R2Git1.jpg)
+   <img  src="R2Git1.jpg">
 </p>
 
 Otherwise you will something like this. 
