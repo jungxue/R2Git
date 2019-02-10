@@ -42,7 +42,7 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 - [**R**](https://cran.r-project.org/)
 - [**R-Studio**](https://www.rstudio.com/products/rstudio/download/)
 - [**Github**](https://github.com/)
-- [**Gitbash**](https://gitforwindows.org/) [automatic download](https://git-scm.com/download/win)
+- [**Gitbash**](https://gitforwindows.org/) [(automatic download)](https://git-scm.com/download/win)
 
 **Step 2**  Check if you already have git installed In RStudio:
 
