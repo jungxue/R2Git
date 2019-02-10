@@ -42,7 +42,7 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 - [**R**](https://cran.r-project.org/)
 - [**R-Studio**](https://www.rstudio.com/products/rstudio/download/)
 - [**Github**](https://github.com/)
-- [**Gtitbash**](https://gitforwindows.org/) or [automatic download](https://git-scm.com/download/win)
+- [**Gitbash**](https://gitforwindows.org/) [automatic download](https://git-scm.com/download/win)
 
 **Step 2**  Check if you already have git installed In RStudio:
 
@@ -102,6 +102,7 @@ Warning: Permanently added 'github.com,192.32.255.613' (RSA) to the list of know
 Hi jungxue! You've successfully authenticated, but GitHub does not provide shell access.
 
 ```
+After all these setups bro you are all good to go!
 
 -------------------------------------------------------------------------------------------------------------------
 
