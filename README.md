@@ -60,14 +60,14 @@ Otherwise you will see this, which allows you to clone a repository onto your la
 
 Open Git Bash or use the terminal tab of R studio, and use the following code to set up your name and email
 
----git
+```git
 $git config --global user.name 'Your Name'
 $git config --global user.email 'your@email.com'
 $git config user.name
 Your Name
 $git config user.email
 your@email.com
----
+```
 
 
 -------------------------------------------------------------------------------------------------------------------
