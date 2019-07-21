@@ -1,6 +1,6 @@
 Version control with GitHub for Rstudio
 
-Still at drafting stage.
+Still at the drafting stage.
 
 ### 1.0 Contents
 
@@ -15,31 +15,31 @@ Still at drafting stage.
 
 ### 1.1 Inspiration
 
-I am at a stage of my study where needs for programming is becoming essential, and I start to come across this thing called Github. At first I thought it was like a forum or community where programmers hangout, and spin yarns, but one day I received an seminar notification email from Medhi about [Blakes's Github seminar](https://github.com/sccuoa/intro-to-git) and thought yeah I kept came across this github thing might as well see what is it about. And then I learnt about version control, I wish I knew about and start using github earlier.
+I am at a stage of my study where needs for programming is becoming essential, and I start to come across this thing called Github. At first, I thought it was like a forum or community where programmers hangout, and spin yarns, but one day I received a seminar notification email from Medhi about [Blakes's Github seminar](https://github.com/sccuoa/intro-to-git) and thought yeah I kept coming across this GitHub thing might as well see what is it about. And then I learnt about version control, I wish I knew about and start using GitHub earlier.
 
-What are benefits of incorporating Github with my R projects:
+What are the benefits of incorporating Github with my R projects:
 
-1. **Version Control**, keep track on your projects and makes it easier to collaborate. Obviously. 
+1. **Version Control**, keep track of your projects and makes it easier to collaborate. Obviously. 
 2. Able to browse and download other peoples **shared codes**, this is what I do for fun now.
-3. Create a **public profile** for myself, my github is the first thing that came up in google search if I search my name.
-4. An alternative platform which I can **do blog/notes**, at Uni and at home. It is better than good old microsoft word. 
-5. I can quickly **present my projects** or codes to other people by sending them a github repository link.
-6. I Need to use github if I was to create my **personal website** using **R Blogdown**.
+3. Create a **public profile** for myself, my GitHub is the first thing that came up in google search if I search my name.
+4. An alternative platform which I can **do blog/notes**, at Uni and at home. It is better than the good old Microsoft word. 
+5. I can quickly **present my projects** or codes to other people by sending them a GitHub repository link.
+6. I Need to use GitHub if I was to create my **personal website** using **R Blogdown**.
 
 Some cons
 
-1. I use github to procastinate, this wastes a lot of time
-2. I started compare myself to other people on Github. And this usually end up in me realising how much I really suck at coding, losing self esteem and contemplating about my life. 
-3. There are no spell checks, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on github. 
-4. I am still unfamilar with github and I do things ineffeciently, if you see me making like 100 commits in a day, that does not meant I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commints to fix things up.  
+1. I procrastinate on Github, sometimes I learn, but most of the time I waste time. 
+2. I started to compare myself to other people on Github. And this usually ends up in me realising how much I really suck at coding, losing self-esteem and contemplating about my life. 
+3. There are no spell checks, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on GitHub. 
+4. I am still unfamiliar with GitHub, and I do things inefficiently if you see me making like 100 commits in a day, that does not mean I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commits to fix things up.  
 
 -------------------------------------------------------------------------------------------------------------------
 
 ### 1.2 Basic setups
 
-**Step 1** Download and install all required softwares
+**Step 1** Download and install all required software
 
-First, you need to have R (preferably also the latest version of R-Studio) and a Github account in order to start, and also Git bash for the commands. Here are links for you to start your download. 
+First, you need to have R (preferably also the latest version of R-Studio) and a Github account to start, and also Git bash for the commands. Here are links for you to start your download. 
 
 - [**R**](https://cran.r-project.org/)
 - [**R-Studio**](https://www.rstudio.com/products/rstudio/download/)
@@ -50,25 +50,25 @@ First, you need to have R (preferably also the latest version of R-Studio) and a
 
 File → New Project → Version Control → Git
 
-If you do not have git or was not setup properly, you will see this
+If you do not have git or was not set up properly, you will see this
 <p align="center">
    <img  src="R2Git1.jpg">
 </p>
 
-Otherwise you will something like this. 
+Otherwise, you will see something like this. 
 ![screenshot2](R2Git2.jpg)
 
 **Step 2** Introduce ourselves to git
 
-You are an user so you need to identify yourself.
+You are a user, so you need to identify yourself.
 
-Open Git Bash or use the terminal tab of R studio, and use the following code to set up your name and email
+Open Git Bash or use the terminal tab of R studio, and use the following code to set up your name and email.
 
 ```git
-$git config --global user.name 'Your Name'
+$git config --global user. name 'Your Name'
 $git config --global user.email 'your@email.com'
 $git config user.name
-Your Name
+Your name
 $git config user.email
 your@email.com
 ```
@@ -90,7 +90,7 @@ Your Name
 
 SSH allows you to connect and authenticate to remote servers.
 
-Tools → Global options → Git/SVN → Create RSA Key → View Public Key
+Tools → Global options → Git/SVN → Create RSA Key → View Public Key.
 
 Copy your key and get on Github https://github.com/settings/ssh/new and associate the key with your account.
 
@@ -103,7 +103,7 @@ RSA key fingerprint is 16:27:ac:a5:76:25:2d:36:63:1b:46:4d:eb:df:a6:48.
 Are you sure you want to continue connecting (yes/no)? Yes
 Warning: Permanently added 'github.com,192.32.255.613' (RSA) to the list of known hosts.
 
-Hi jungxue! You've successfully authenticated, but GitHub does not provide shell access.
+Hi, jungxue! You've successfully authenticated, but GitHub does not provide shell access.
 
 ```
 After all these setups bro you are all good to go!
@@ -115,7 +115,7 @@ After all these setups bro you are all good to go!
 Here are some of the Core concepts you need to understand before you use Github. 
 
 **Repository**
-- This is an online location that contains all your files (and history) for particular project.
+- This is an online location that contains all your files (and history) for a particular project.
 
 **Commit**
 - Each commit is a snapshot of your project.
@@ -126,7 +126,7 @@ Here are some of the Core concepts you need to understand before you use Github.
 - Copy (clone) an existing repository onto your local drive. 
 
 **Push**
-- Making the changes you have made locally (using git) available to the online repository (GitHub).
+- Making the changes, you have made locally (using git) available to the online repository (GitHub).
 
 **Pull**
 - Updating your local repository to the current version in the online repository.
@@ -149,5 +149,3 @@ There are more stuff you can do with git, more details see [here]()
 - **Ewen Harrison** R-blogger [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 - **Blake Seer** UoA SCC [intro to git (for R users)](https://github.com/sccuoa/intro-to-git)
 - **Nathan Stephens** Rstudo support [Version Control with Git and SVN](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
-- **Hadley Wickham** [webinar](https://www.rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-and-rstudio/)
-
