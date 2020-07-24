@@ -4,38 +4,14 @@ Still at the drafting stage.
 
 ### 1.0 Contents
 
-- [1.1 Inspiration](https://github.com/jungxue/R-lyublyu-Git/blob/master/README.md#11-inspiration)
-- [1.2 Basic setups](https://github.com/jungxue/R2Git/blob/master/README.md#12-basic-setups)
-- [1.3 Github Basics](https://github.com/jungxue/R2Git/blob/master/README.md#13-github-basics)
-- [1.4 Example 1: Setting up a bookdown Project for Study Notes](https://github.com/jungxue/R2Git/blob/master/README.md#14-example-1-setting-up-a-bookdown-project-for-study-notes)
-- [1.5 Example 2: Version control for my thesis R codes](https://github.com/jungxue/R2Git/blob/master/README.md#15-example-2-version-control-for-my-thesis-r-codes)
+- [1.1 Basic setups](https://github.com/jungxue/R2Git/blob/master/README.md#12-basic-setups)
+- [1.2 Github Basics](https://github.com/jungxue/R2Git/blob/master/README.md#13-github-basics)
+- [1.3 Example 1: Setting up a bookdown Project for Study Notes](https://github.com/jungxue/R2Git/blob/master/README.md#14-example-1-setting-up-a-bookdown-project-for-study-notes)
+- [1.4 Example 2: Version control for my thesis R codes](https://github.com/jungxue/R2Git/blob/master/README.md#15-example-2-version-control-for-my-thesis-r-codes)
 - [Reference](https://github.com/jungxue/R2Git/blob/master/README.md#reference)
-
 -------------------------------------------------------------------------------------------------------------------
 
-### 1.1 Inspiration
-
-I am at a stage of my study where needs for programming is becoming essential, and I start to come across this thing called Github. At first, I thought it was like a forum or community where programmers hangout, and spin yarns, but one day I received a seminar notification email from Medhi about [Blakes's Github seminar](https://github.com/sccuoa/intro-to-git) and thought yeah I kept coming across this GitHub thing might as well see what is it about. And then I learnt about version control, I wish I knew about and start using GitHub earlier.
-
-What are the benefits of incorporating Github with my R projects:
-
-1. **Version Control**, keep track of your projects and makes it easier to collaborate. Obviously. 
-2. Able to browse and download other peoples **shared codes**, this is what I do for fun now.
-3. Create a **public profile** for myself, my GitHub is the first thing that came up in google search if I search my name.
-4. An alternative platform which I can **do blog/notes**, at Uni and at home. It is better than the good old Microsoft word. 
-5. I can quickly **present my projects** or codes to other people by sending them a GitHub repository link.
-6. I Need to use GitHub if I was to create my **personal website** using **R Blogdown**.
-
-Some cons
-
-1. I procrastinate on Github, sometimes I learn, but most of the time I waste time. 
-2. I started to compare myself to other people on Github. And this usually ends up in me realising how much I really suck at coding, losing self-esteem and contemplating about my life. 
-3. There are no spell checks, now people will see how bad my spelling really is. Maybe I need to do my markdown files on an editor rather than do it on GitHub. 
-4. I am still unfamiliar with GitHub, and I do things inefficiently if you see me making like 100 commits in a day, that does not mean I did a lot of work on that day, it probably meant that I was confused as and had to keep doing commits to fix things up.  
-
--------------------------------------------------------------------------------------------------------------------
-
-### 1.2 Basic setups
+### 1.1 Basic setups
 
 **Step 1** Download and install all required software
 
@@ -110,7 +86,7 @@ After all these setups bro you are all good to go!
 
 -------------------------------------------------------------------------------------------------------------------
 
-### 1.3 Github Basics
+### 1.2 Github Basics
 
 Here are some of the Core concepts you need to understand before you use Github. 
 
@@ -138,9 +114,9 @@ Here are some of the Core concepts you need to understand before you use Github.
 There are more stuff you can do with git, more details see [here]()
 
 -------------------------------------------------------------------------------------------------------------------
-### 1.4 Example 1: Setting up a bookdown Project for Study Notes
+### 1.3 Example 1: Setting up a bookdown Project for Study Notes
 
-### 1.5 Example 2: Version control for my thesis R codes
+### 1.4 Example 2: Version control for my thesis R codes
 
 -------------------------------------------------------------------------------------------------------------------
 
