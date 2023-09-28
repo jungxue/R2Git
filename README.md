@@ -34,7 +34,7 @@ If you do not have git or was not set up properly, you will see this
 Otherwise, you will see something like this. 
 ![screenshot2](R2Git2.jpg)
 
-**Step 2** Introduce ourselves to git
+**Step 3** Introduce ourselves to git
 
 You are a user, so you need to identify yourself.
 
@@ -62,7 +62,7 @@ $git config user.name
 Your Name
 ```
 
-**Step 3** Secure Shell (SSH) key (optional)
+**Step 4** Secure Shell (SSH) key (optional)
 
 SSH allows you to connect and authenticate to remote servers.
 
@@ -75,14 +75,14 @@ And check your connection on R terminal:
 ```git
 C:\Users\Tokor>ssh -T git@github.com
 The authenticity of host 'github.com (192.30.255.113)' can't be established.
-RSA key fingerprint is 16:27:ac:a5:76:25:2d:36:63:1b:46:4d:eb:df:a6:48.
+RSA key fingerprint is XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX.
 Are you sure you want to continue connecting (yes/no)? Yes
-Warning: Permanently added 'github.com,192.32.255.613' (RSA) to the list of known hosts.
+Warning: Permanently added 'github.com,XXX.XX.XXX.XXX' (RSA) to the list of known hosts.
 
-Hi, jungxue! You've successfully authenticated, but GitHub does not provide shell access.
+Hi, jung! You've successfully authenticated, but GitHub does not provide shell access.
 
 ```
-After all these setups bro you are all good to go!
+After all these setups bro you are all good to go! Chur. 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -91,12 +91,11 @@ After all these setups bro you are all good to go!
 Here are some of the Core concepts you need to understand before you use Github. 
 
 **Repository**
-- This is an online location that contains all your files (and history) for a particular project.
+- This is an online location that contains all your files (and history) for a particular project. You can clone on eor more local repositories to work from. 
 
 **Commit**
 - Each commit is a snapshot of your project.
-- Equivalent to a saving ThesisDraft3.docx.
-- You can view and travel between commits. 
+- You can view and travel between commits.
 
 **Clone**
 - Copy (clone) an existing repository onto your local drive. 
@@ -109,15 +108,6 @@ Here are some of the Core concepts you need to understand before you use Github.
 
 **Fork**
 - Making a clone repository from another user's project.
-
-
-There are more stuff you can do with git, more details see [here]()
-
--------------------------------------------------------------------------------------------------------------------
-### 1.3 Example 1: Setting up a bookdown Project for Study Notes
-
-### 1.4 Example 2: Version control for my thesis R codes
-
 -------------------------------------------------------------------------------------------------------------------
 
 ### Reference
